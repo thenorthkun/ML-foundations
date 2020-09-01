@@ -1,2 +1,2 @@
 # ML-foundations
-This repo
+This repo covers
