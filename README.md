@@ -14,7 +14,7 @@ Pandas is mainly used for data analysis. This library is built on top of Numpy. 
 ### 3. Matplotlib 📊
 Matplotlib is a plotting library primarily used for data visualization. This library is also an extension of Numpy. This library is used for plotting various graphs such as Line plots, bar graphs, Pie charts and other figures. 
 ### 4. Seaborn 📈
-Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+Seaborn is a Python data visualization library based on top of matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 Matplotlib generally consists of basic plots but Seaborn, on the other hand, provides a variety of visualization patterns. It uses fewer syntax and has easily interesting default themes. More advanced plots like Heatmaps, Box plots, Histogram, Scatter plots & many more.
 ### 5. Sci-kit Learn 💻
 Scikit-learn is a machine learning library for Python which features various algorithms like support vector machine, random forests, and k-neighbours in a pre-built form. 
